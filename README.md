@@ -47,5 +47,11 @@ Before running the project, ensure that you have the following installed:
 - MySQL
 - Postman (for API testing)
 
+
+**Output**
+![comment_internship_task1_image 4](https://github.com/user-attachments/assets/ec067b88-e84e-43af-a656-580857f9d4f0)
+
+
+
 **Conclusion**
 This Blog Backend System is built to handle user registration, login, blog creation, and commenting. It’s scalable and modular, so you can easily add more features like advanced user roles, tags, and categories. By following these steps, you’ve set up the backend system, connected it to a MySQL database, and tested it using Postman.
